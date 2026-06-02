@@ -3,6 +3,8 @@ numpy
 scikit-learn
 beautifulsoup4
 requests
+undetected-chromedriver
+selenium
 matplotlib
 seaborn
 ipykernel
