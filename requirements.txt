@@ -5,6 +5,8 @@ beautifulsoup4
 requests
 undetected-chromedriver
 selenium
+clean-text
+flashtext
 matplotlib
 seaborn
 ipykernel
